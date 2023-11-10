@@ -1,0 +1,19 @@
+.banner{
+    background-size: cover;
+}
+
+.banner-content > h1{
+    font-size: 40px;
+    font-weight: normal;
+    margin-bottom: 2rem;
+}
+
+.banner-content > h2{
+    font-size: 20px;
+    font-weight: normal;
+    margin-bottom: 2rem;
+}
+
+.section{
+    padding: 60px 0;
+}
